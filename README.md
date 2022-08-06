@@ -1,10 +1,11 @@
-hello, is me
+hello, I'm Layne
 
-i do the funny
+me do the funny sometimes
 
-i write html, css, typescript (and js I guess), a bit of powershell/command line scripting, uhhhhhhh yeah
+I write html, css, typescript (and js I guess), a bit of powershell/command line scripting, uhhhhhhh yeah
+I have experience with `roblox-ts`, `electron`, `discord.js`, a little bit of `tauri`
 
-tl;dr: stupid idiot does the web dev (badly)
+tl;dr: generic web dev
 
 <!---
 - 👋 Hi, I’m @LayneTheEpic
