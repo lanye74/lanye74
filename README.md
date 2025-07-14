@@ -1,13 +1,10 @@
 Hello, I'm Layne!
 
-I'm primarily a frontend web dev; currently working on my first full stack project.
-I write HTML, CSS, TypeScript, and little bit of Powershell. I'm familiar with Rust, but by no means an expert.
-
-- Most of my experience is with `electron` and `discord.js`; learning `supabase` at the moment.
-  - I tried `tauri` before I learned Rust which didn't go well
-- I'm a vanilla JS lover, but I want to learn Svelte.
-  - I probably should also learn how to use Sass...
-  - ...and Deno or Bun...
-- I have a little bit of networking experience, working with Extreme and Avaya switches
-
-Unfortunately I'm a little unmotivated at the moment, but I still try to stay up-to-date with new technologies. Open to learn anything (as long as it's not `tailwind`)
+I'm primarily a frontend web dev; currently working on my second full-stack project, `urealms-wiki`, built in SvelteKit.
+ 
+- I write SvelteKit applications in HTML, CSS, and TypeScript. I'm familiar with Rust, but no expert
+	- I intend to learn a stylesheet language, like Sass
+- Very comfortable with `node.js`, but some day I'd love to learn `Deno` or `Bun`
+	- Historically, I've used the `electron` and `discord.js` packages a bunch, but it's been a while
+- Familiar with databasing, particularly with Supabase
+- Have networking experience with Extreme and Avaya switches
